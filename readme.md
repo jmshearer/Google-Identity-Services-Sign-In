@@ -1,7 +1,7 @@
 Google Identity Services Login Demo
 ===================================
 
-This demonstrates three methods for signing in with Google Identity Services. Aditional information can be found at [https://developers.google.com/identity](https://developers.google.com/identity)
+This demonstrates three methods for signing in with Google Identity Services with PHP. Additional information can be found at [https://developers.google.com/identity](https://developers.google.com/identity)
 
 Getting Started
 ---------------
