@@ -17,3 +17,10 @@ Demonstrations
 *   [HTML Redirection](demo-redirect.php)
 *   [JavaScript Handler](demo-js.php)
 *   [JavaScript Handler w/ legacy support](demo-js.php) (creates the legacy googleUser object)
+
+Helpful Resources
+--------------
+
+*   [Google Identity Services](https://developers.google.com/identity)
+*   [Installing Google PHP API](https://github.com/googleapis/google-api-php-client)
+*   [JSON Web Tokens](https://jwt.io/)
