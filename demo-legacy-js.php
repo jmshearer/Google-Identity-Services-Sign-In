@@ -16,6 +16,7 @@
 
         <!-- Configure the Google Identity Services client -->
         <!-- Note that this is configured to redirect to ga.php (to authenticate) -->
+        <!-- If data-auto_prompt="true", one-tap will be enabled -->
         <div id="g_id_onload"
              data-client_id="<?php require_once("include/ga-credentials.php"); echo $ga_client_id; ?>"
              data-context="signin"
