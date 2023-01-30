@@ -9,7 +9,7 @@ Getting Started
 1.  Create OAuth 2.0 Client ID: [Cloud Console -> APIs & Services -> Credentials -> OAuth 2.0 Client IDs](https://console.cloud.google.com/apis/credentials)
 2.  Be sure to list authorizaed Javascript Origins
 3.  Be sure to list redirect URIs
-4.  Note your Client ID and update include/ga-credentials.php (see <a href="include/ga-credentials.txt">ga-credentials.txt</a> for prototype.
+4.  Note your Client ID and update include/ga-credentials.php (see <a href="include/ga-credentials.txt">ga-credentials.txt</a> for prototype)
 
 Demonstrations
 --------------
